@@ -1,6 +1,6 @@
 //
 // Created by hp on 2020/10/7.
-// �����뷨�����û����У��ѵ�i�е����ݴ�0�ӵ�j�ĺͣ��浽������ĵ�i��j�У�����Ԥ����һ��Ϊ0(���ǵ�0��)
+// 利用缓存行，把第i行的数据从0加到j的和，存到新数组的第i行j列，这里预留了一列为0(我是第0列)
 #include <iostream>
 #include <vector>
 using namespace std;
